@@ -1,19 +1,25 @@
 {
   "title": "Deadman Wonderland",
-  "description": "רעידת אדמה אדירה מחריבה את יפן והורסת את רוב טוקיו אשר שוקעת ברובה אל מצולות הים. עשר שנים מאוחר יותר, איגראשי גאנטה, נער רגיל למראה ששרד את רעידת האדמה ואינו זוכר ממנה דבר מואשם ברצח חבריו לכיתה אותו לא ביצע ונשלח לבית סוהר חדש בבעלות פרטית שבו הכלואים הם האטרקציה המרכזית בטוויסט מודרני לקרבות הגלדיאטורים בקולוסיאומים בזמנים העתיקים. כעת עליו להתרגל לחיים חדשים מאחורי סורג ובריח בעודו ממתין להיות מוצא להורג.
-
-אך האם כאן מסתיימות דאגותיו? הוסיפו נערה קטנה ומוזרה, כוחות על חדשים ותאוריית קונספירציה והרי לכם: דדמן וונדרלנד. ",
+  "description": "After a powerful earthquake nearly destroyed all of Tokyo, a prison known as Deadman Wonderland rose from what was left of the city. Privately-run through the guise and functions of a theme park, Deadman Wonderland takes in prisoners from all over Japan, using them as attractions for tourists. Little do the public know about the true purpose of this theme park and the horrors that take place within.",
   "artist": "Kazuma Kondou",
   "author": "Jinsei Kataoka",
-  "cover": "",
+  "cover": "https://cdn.discordapp.com/attachments/781902195418988564/838085619203833916/4.png",
   "chapters": {
     "1": {
       "title": "צ'אפטר 1",
       "volume": "ווליום 1",
       "groups": {
-        "MangaShelf": "/proxy/api/imgur/chapter/hi16xnp"
+        "MangaShelf": "/proxy/api/imgur/chapter/nycp3aR"
       },
       "last_updated": "1616368746"
     },
+       "2": {
+      "title": "צ'אפטר 2",
+      "volume": "ווליום 1",
+      "groups": {
+        "MangaShelf": "/proxy/api/imgur/chapter/hi16xnp"
+      },
+      "last_updated": "1616368746"
+    }
   }
 }
